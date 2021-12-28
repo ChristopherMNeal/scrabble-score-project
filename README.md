@@ -29,8 +29,7 @@ _(Note: Ruby gem dependencies will be installed automatically by Bundler.)_
 * Clone the GitHub repository: [https://github.com/christophermneal/scrabble-score-project](https://github.com/christophermneal/scrabble-score-project)
 * From the main project directory, enter `bundle install` in the terminal to populate gems.
 * Enter `rspec` into the terminal to confirm passing of all tests.
-* Enter `ruby app.rb` to run the program with Sinatra.
-* Open browswer and enter the url http://localhost:4567/ unless otherwise prompted in the terminal.
+* Enter `code .` into the terminal to open the files in VS Code and see the program functions.
 
 ## Known Bugs
 
